@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DJIdemo</string>
+    <string name="app_name_decoding_sample">SayCheese</string>
+    <string name="title_main_activity">Video Stream Decoding Sample</string>
+    <string name="product_information">Product Information</string>
+    <string name="connection_loose">Status: No Product Connected</string>
+    <string name="model_not_available">Model Not Available</string>
+    <string name="sdk_version">DJI SDK Version: %1$s</string>
+    <string name="title_activity_detect">DetectActivity</string>
+
+    <string name="take_photo">Take Photo</string>
+    <string name="select_photo">Select Photo</string>
+</resources>
